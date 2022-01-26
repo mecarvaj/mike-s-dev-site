@@ -33,9 +33,13 @@
     height: 60px;
     display: flex;
     align-items: center;
-    background-color: #1976d2;
+    background-color: #23c3f3;
     color: white;
     font-weight: 600;
+  }
+  .toolbar:hover {
+    opacity: 0.9;
+
   }
 
   .toolbar img {
