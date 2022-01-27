@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Dependant Action Steps
 on: [push]
 jobs:
   restore:
